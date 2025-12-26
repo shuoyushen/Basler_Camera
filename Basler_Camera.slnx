@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="Basler_Camera.csproj" Id="4333fdf9-7214-418e-bb0d-07a9cfcc1e00">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
